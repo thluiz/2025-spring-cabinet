@@ -1,4 +1,4 @@
-baseURL: https://cabinet.thluiz.com
+baseURL: https://spring-cabinet-2025.thluiz.com
 
 # Book configuration
 disablePathToLower: true
@@ -31,7 +31,7 @@ menu:
 params:
 
   name: Thiago Luiz Silva
-  title: 📓 Cabinet of Ideas
+  title: 📓 Cabinet of Ideas - Spring 2025
 
   # OPTIONAL: custom favicon location
   # favicon: 'location/to/favicon.png'
